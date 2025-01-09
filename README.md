@@ -31,4 +31,4 @@ O sistema foi desenvolvido utilizando o framework **Spring Boot** com a configur
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SeuUsuario/sistema-pagamento-pix.git
+   git clone https://github.com/jr-adalberto/payment-system.git
